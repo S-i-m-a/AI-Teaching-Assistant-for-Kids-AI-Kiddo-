@@ -30,12 +30,12 @@ Key Features
 Technology Stack
 
     Frontend:
-        Framework: React or Vue.js
+        Framework: React 
         UI Library: Material-UI or Bootstrap
 
     Backend:
-        Framework: Django (Python) or Node.js
-        Database: MongoDB or Firebase
+        Framework: Django (Python) 
+        Database:  Firebase
 
     AI/ML:
         NLP: OpenAI GPT API or Hugging Face Transformers
